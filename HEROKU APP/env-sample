@@ -1,0 +1,7 @@
+export CLIENT_ID='CLIENT_ID KEY'
+export CLIENT_SECRET='CLIENT KEY'
+export CALLBACK_URL='https://baxtercreditunion--sldevchat2.my.salesforce.com/oauth/callback'
+export USERNAME='YOUR-USERNAME'
+export PASSWORD='YOUR-PASSWORD'
+export SECURITY_TOKEN='YOUR-SECURITY-TOKEN'
+export LIGHTNING_URL='https://baxtercreditunion--sldevchat2.lightning.force.com'
